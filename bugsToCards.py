@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from Bug import Bug
 from Trello import Trello
 from conf.Config import Config
